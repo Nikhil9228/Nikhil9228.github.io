@@ -23,4 +23,4 @@ do
     # echo "You entered: $guess"
     echo $(correct_guess $guess $count)
     echo ""
-don
+done
